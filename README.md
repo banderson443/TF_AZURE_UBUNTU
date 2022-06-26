@@ -16,9 +16,12 @@ Create Ubuntu 18 Virtual Machine in AZURE
 
 Tested with
     AzureRM 3.11 https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs
+    
     Terraform 1.2.0 https://www.terraform.io/downloads
 
 Run
     terraform init
+    
     terraform plan -out main.tfplan
+    
     terraform apply main.tfplan
