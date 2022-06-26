@@ -2,7 +2,7 @@
 Terraform create Ubuntu VM in Azure
 
 
-Create Ubuntu 18 Virtual Machine in AZURE
+Create Ubuntu 18 Virtual Machine in Azure
 
     Create a virtual network
     Create a subnet
